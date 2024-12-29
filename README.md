@@ -9,6 +9,6 @@ I like learning new things in ServiceNow and sharing my knowledge 🔭
 <img align="center" alt="CSS" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="margin-right: 10px;">
 </div>
 
+[![An image of @isaacvicentini's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/isaacvicentini)](https://holopin.io/@isaacvicentini)
 
 <!-- ![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaac-vicentini&show_icons=true&theme=transparent) -->
-
