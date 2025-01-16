@@ -2,12 +2,6 @@
 
 I like learning new things in ServiceNow and sharing my knowledge 🔭 
 
-<div>
-<img align="center" alt="Servicenow" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/servicenow_logo_icon_168835.png">
-<img align="center" alt="Javascript" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="margin-right: 10px;">
-<img align="center" alt="HTML" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="margin-right: 10px;">
-<img align="center" alt="CSS" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="margin-right: 10px;">
-</div>
 <br>
 
 [![An image of @isaacvicentini's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/isaacvicentini)](https://holopin.io/@isaacvicentini)
